@@ -1,0 +1,76 @@
+body{
+background-color: darkseagreen;
+h1{color: maroon;}
+h1{text-align: center;}
+p{font-size: 22px;}
+}
+
+.hobby1 {
+  width: 22%;
+  margin-left: 2%;
+  margin-right: auto;
+  border: solid;
+  border-radius: 25px;
+}
+
+.hobby2 {
+  width: 18%;
+  margin-left: 5%;
+  margin-right: auto;
+  border: solid;
+  border-radius: 25px;
+}
+ 
+
+.islandia {
+  width: 115%;
+  margin-left: 5%;
+  margin-right: auto;
+  border: solid;
+  border-radius: 25px;
+}
+
+.italia {
+  display: block;
+  width: 30%;
+  margin-left: 35%;
+  margin-right: 600%;
+  border: solid;
+  border-radius: 25px;
+}
+
+.japao {
+  width: 142%;
+  margin-left: 6%;
+  margin-left: -38%;
+  border: solid;
+  border-radius: 25px;
+}
+
+
+.lista li{
+    line-height: 300%;
+    font-size: medium;
+    color: aquamarine;
+}
+
+.link:hover{
+     color: maroon;
+
+}
+
+.th1{
+     color:aquamarine;
+     
+}
+
+.th2{
+     color:maroon;
+
+     
+}
+
+.th3{
+     color: red;
+ 
+}
